@@ -1,5 +1,6 @@
 import sys, os
 import random
+from tqdm import tqdm
 import tarfile, requests, shutil
 random.seed(1997)
 
@@ -7,17 +8,16 @@ def DownloadDataset(loc, url):
     os.makedirs(loc, exist_ok=True)
     filename = os.path.basename(url)
     filepath = os.path.join(loc, filename)
-    
+
     response = requests.get(url, stream=True)
     total_size = int(response.headers.get("content-length", 0))
     block_size = 1048576
+
     with open(filepath, "wb") as f:
-        for data in response.iter_content(block_size):
-            f.write(data)
-            read_so_far = f.tell()
-            if total_size > 0:
-                percent = read_so_far * 100 / total_size
-                print(f"Downloaded {read_so_far} of {total_size} bytes ({percent:.2f}%)")
+        with tqdm(total=total_size, unit='B', unit_scale=True, desc="Downloading") as pbar:
+            for data in response.iter_content(block_size):
+                f.write(data)
+                pbar.update(len(data))
                 
     with tarfile.open(filepath, "r:gz") as tar:
         tar.extractall(loc)

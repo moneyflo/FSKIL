@@ -1,10 +1,6 @@
 from utils import ensure_path
 import os
 import datetime
-def sub_set_save_path(args):
-    args.save_path = args.save_path +\
-        f"-tw_{args.softmax_t}-{args.shift_weight}-{args.soft_mode}"
-    return args
 
 def set_save_path(args):
     # base info
@@ -51,9 +47,6 @@ def set_save_path(args):
     if 'ft' in args.new_mode:
         args.save_path = args.save_path + '-ftLR_%.3f-ftEpoch_%d' % (
             args.lr_new, args.epochs_new)
-    
-    # specific parameters
-    args = sub_set_save_path(args)
 
     if args.debug:
         args.save_path = os.path.join('debug', args.save_path)

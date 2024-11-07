@@ -18,7 +18,7 @@ class GSC2(Dataset):
         self.base_sess = base_sess
         self._pre_operate(self.root)
 
-        noise_dir = '/home/seok/workspace/fskil/FSKIL/data/datasets/GSC2/_background_noise_'
+        noise_dir = './data/datasets/GSC2/_background_noise_'
         self.preprocess = Preprocess(noise_loc=noise_dir)
         
         if train:

@@ -7,6 +7,12 @@
 - matplotlib
 - scikit-learn
 
+```
+python3 -m venv venv
+. ./venv/bin/activate
+pip install torch torchvision torchaudio tqdm matplotlib scikit-learn requests
+```
+
 ## Dataset
 Using Google Speech Commands v2
 
