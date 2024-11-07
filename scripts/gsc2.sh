@@ -1,0 +1,14 @@
+python train.py base \
+    -project base \
+    -dataset gsc2 \
+    -dataroot ./data/datasets \
+    -base_mode 'ft_cos' \
+    -new_mode 'avg_cos' \
+    -lr_base 0.1 \
+    -decay 0.0005 \
+    -epochs_base 100 \
+    -batch_size_base 256 \
+    -schedule Cosine \
+    -tmax 100 \
+    -gpu '0' \
+    -temperature 16

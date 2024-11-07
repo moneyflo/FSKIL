@@ -1,0 +1,15 @@
+GSC2/keywords/24.marvin/f035e2ea_nohash_0.wav
+GSC2/keywords/24.marvin/126a31d2_nohash_2.wav
+GSC2/keywords/24.marvin/6f3458b3_nohash_0.wav
+GSC2/keywords/24.marvin/f19c1390_nohash_0.wav
+GSC2/keywords/24.marvin/f5d09ebd_nohash_0.wav
+GSC2/keywords/25.bird/ced4e2a1_nohash_1.wav
+GSC2/keywords/25.bird/531a5b8a_nohash_0.wav
+GSC2/keywords/25.bird/324210dd_nohash_0.wav
+GSC2/keywords/25.bird/fc94edb0_nohash_1.wav
+GSC2/keywords/25.bird/0bfec55f_nohash_1.wav
+GSC2/keywords/26.happy/c7b4049e_nohash_1.wav
+GSC2/keywords/26.happy/6f7724f5_nohash_0.wav
+GSC2/keywords/26.happy/ab00c4b2_nohash_0.wav
+GSC2/keywords/26.happy/1cec8d71_nohash_0.wav
+GSC2/keywords/26.happy/e71a9381_nohash_0.wav

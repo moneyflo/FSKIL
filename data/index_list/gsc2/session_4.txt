@@ -1,0 +1,15 @@
+GSC2/keywords/27.cat/f9318c93_nohash_0.wav
+GSC2/keywords/27.cat/413997c1_nohash_2.wav
+GSC2/keywords/27.cat/cce7416f_nohash_0.wav
+GSC2/keywords/27.cat/6366f61a_nohash_0.wav
+GSC2/keywords/27.cat/645ed69d_nohash_0.wav
+GSC2/keywords/28.sheila/4bc2c2c5_nohash_0.wav
+GSC2/keywords/28.sheila/afe0b87d_nohash_0.wav
+GSC2/keywords/28.sheila/118261a9_nohash_1.wav
+GSC2/keywords/28.sheila/aff582a1_nohash_0.wav
+GSC2/keywords/28.sheila/ad340ed7_nohash_0.wav
+GSC2/keywords/29.bed/105e72bb_nohash_0.wav
+GSC2/keywords/29.bed/f4f59743_nohash_1.wav
+GSC2/keywords/29.bed/ce49cb60_nohash_0.wav
+GSC2/keywords/29.bed/f2898d06_nohash_0.wav
+GSC2/keywords/29.bed/3aa6f4e2_nohash_0.wav

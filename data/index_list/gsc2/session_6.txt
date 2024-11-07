@@ -1,0 +1,15 @@
+GSC2/keywords/33.follow/f19279c4_nohash_0.wav
+GSC2/keywords/33.follow/54ad8f22_nohash_2.wav
+GSC2/keywords/33.follow/f5341341_nohash_1.wav
+GSC2/keywords/33.follow/0e6e36c9_nohash_2.wav
+GSC2/keywords/33.follow/42a99aec_nohash_3.wav
+GSC2/keywords/34.learn/2dc4f05d_nohash_1.wav
+GSC2/keywords/34.learn/0d90d8e1_nohash_4.wav
+GSC2/keywords/34.learn/050170cb_nohash_2.wav
+GSC2/keywords/34.learn/a1cf7fd8_nohash_3.wav
+GSC2/keywords/34.learn/14c7b073_nohash_1.wav
+GSC2/keywords/35.forward/5ebc1cda_nohash_3.wav
+GSC2/keywords/35.forward/050170cb_nohash_2.wav
+GSC2/keywords/35.forward/b29f8b23_nohash_0.wav
+GSC2/keywords/35.forward/fe11e258_nohash_1.wav
+GSC2/keywords/35.forward/89947bd7_nohash_3.wav

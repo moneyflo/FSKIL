@@ -1,0 +1,15 @@
+GSC2/keywords/21.dog/d7559b2d_nohash_0.wav
+GSC2/keywords/21.dog/f2dd248e_nohash_0.wav
+GSC2/keywords/21.dog/3ffa3457_nohash_1.wav
+GSC2/keywords/21.dog/1338a799_nohash_1.wav
+GSC2/keywords/21.dog/3c257192_nohash_0.wav
+GSC2/keywords/22.wow/21cbe292_nohash_1.wav
+GSC2/keywords/22.wow/b1df80c0_nohash_0.wav
+GSC2/keywords/22.wow/3a7d8872_nohash_0.wav
+GSC2/keywords/22.wow/6823565f_nohash_2.wav
+GSC2/keywords/22.wow/ccb1266b_nohash_0.wav
+GSC2/keywords/23.house/5de3f6cc_nohash_1.wav
+GSC2/keywords/23.house/78102205_nohash_0.wav
+GSC2/keywords/23.house/adc216c5_nohash_0.wav
+GSC2/keywords/23.house/40738a2d_nohash_0.wav
+GSC2/keywords/23.house/3c8dc702_nohash_0.wav
