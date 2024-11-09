@@ -2,15 +2,23 @@
 
 ## Prerequisites
 
-- pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
-- tqdm
-- matplotlib
-- scikit-learn
-
+- Download package
 ```
 python3 -m venv venv
 . ./venv/bin/activate
 pip install torch torchvision torchaudio tqdm matplotlib scikit-learn requests
+```
+
+- Data processing
+```
+cd data
+python3 dataset_prep.py
+cd ../
+```
+
+- Start training
+```
+. ./scripts/gsc2.sh
 ```
 
 ## Dataset
