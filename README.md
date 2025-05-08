@@ -1,6 +1,6 @@
 # Few-shot Keyword-incremental Learning with Total Calibration
 
-Few-shot class-incremental keyword spotting on Google Speech Commands v2.
+Few-shot class-incremental learning for keyword spotting on Google Speech Commands v2.
 Baseline only for now — total calibration will be integrated in a future update.
 
 ## Prerequisites
